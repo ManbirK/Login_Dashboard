@@ -1,0 +1,11 @@
+Flask==2.3.2
+Flask-SQLAlchemy==3.0.5
+Flask-WTF==1.1.1
+Flask-Login==0.6.3
+Werkzeug==2.3.6
+WTForms==3.0.1
+click
+gunicorn
+itsdangerous
+Jinja2
+MarkupSafe
